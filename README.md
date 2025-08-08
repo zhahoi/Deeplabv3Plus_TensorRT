@@ -1,0 +1,2 @@
+# Deeplabv3Plus_TensorRT
+使用TensorRT部署Deeplabv3Plus，实现高效推理。
